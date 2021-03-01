@@ -55,3 +55,9 @@
 </body>
 </html>
 <?php $polaczenie->close();
+
+//utwórz baze danych o nazwie Warsztaty
+// 2 tabele
+//1 tabela - samochody (3 atrybuty, marka, silnik)
+//2 tabela komputery (marka, nazwa)
+//wykonaj polaczenie do bazy danych, utwórz nowego użytkownika i pobierz wszystkie rekordy z tabeli samochody, komputery
